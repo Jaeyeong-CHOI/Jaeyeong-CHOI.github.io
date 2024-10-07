@@ -12,9 +12,9 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `코드와 랜딩페이지는 수정중입니다.
-            [랜딩 페이지에 적을 내용을 고민중이라고 합니다]
-            `;
+  var txt = `
+  					Hello, my name is Jaeyoung Choi. I am majoring in Computer Science, with a particular focus on Artificial Intelligence and Human-Computer Interaction (HCI). I have been pursuing my bachelor’s degree at DGIST since 2022 and am currently serving in the military. Feel free to reach out if you have any interesting topics to discuss!
+  					 `;
   var speed = 60;
 
   function typeItOut () {
