@@ -13,7 +13,11 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `
-  					Hello, my name is Jaeyoung Choi. I am majoring in Computer Science, with a particular focus on Artificial Intelligence and Human-Computer Interaction (HCI). I have been pursuing my bachelor’s degree at DGIST since 2022 and am currently serving in the military. Feel free to reach out if you have any interesting topics to discuss!
+  					Hello, my name is Jaeyeong Choi.
+            I am majoring in Computer Science, with a particular focus on Artificial Intelligence and Human-Computer Interaction (HCI).
+            I have been pursuing my bachelor’s degree at DGIST since 2022 and am currently serving in the military.
+            
+            Feel free to reach out if you have any interesting topics to discuss!
   					 `;
   var speed = 60;
 
